@@ -11,7 +11,8 @@ ASPEX Swiss	.cdf	Particle measurements, different energy bands<br>
 PAPA	.cdf	Plasma: density, velocity, temperature → dynamic pressure<br>
 MAG	.cdf	Magnetic field: Bx, By, Bz, magnitude, sudden changes<br>
 Solexs	.fits	X-ray imaging → high-energy solar events<br>
-VELC	.fits	Visible emission + coronagraph images → CME structure<br>
-HEL1OS	.fits	Coronagraph images for CMEs<br>
-SPICE	.cdf	Spectral measurements, line-of-sight velocity<br>
+
+
+Multi Modal is done
+O/p which is detection classification and time series analysis
  
