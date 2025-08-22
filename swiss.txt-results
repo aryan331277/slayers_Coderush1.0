@@ -1,0 +1,29 @@
+Available variables: ['epoch_for_cdf_mod', 'proton_density', 'numden_p_uncer', 'proton_bulk_speed', 'bulk_p_uncer', 'proton_xvelocity', 'proton_yvelocity', 'proton_zvelocity', 'proton_thermal', 'thermal_p_uncer', 'alpha_density', 'numden_a_uncer', 'alpha_bulk_speed', 'bulk_a_uncer', 'alpha_thermal', 'thermal_a_uncer', 'spacecraft_xpos', 'spacecraft_ypos', 'spacecraft_zpos']
+Found timestamp as epoch_for_cdf_mod, shape: (17275,)
+Found velocity_x as proton_xvelocity, shape: (17275,)
+Found velocity_y as proton_yvelocity, shape: (17275,)
+Found velocity_z as proton_zvelocity, shape: (17275,)
+Found velocity_mag as proton_bulk_speed, shape: (17275,)
+Found proton_density as proton_density, shape: (17275,)
+Found proton_temp as proton_thermal, shape: (17275,)
+Found alpha_density as alpha_density, shape: (17275,)
+Found alpha_speed as alpha_bulk_speed, shape: (17275,)
+Found alpha_temp as alpha_thermal, shape: (17275,)
+Found proton_density_uncertainty as numden_p_uncer, shape: (17275,)
+Found proton_speed_uncertainty as bulk_p_uncer, shape: (17275,)
+Found proton_temp_uncertainty as thermal_p_uncer, shape: (17275,)
+Found alpha_density_uncertainty as numden_a_uncer, shape: (17275,)
+Found alpha_speed_uncertainty as bulk_a_uncer, shape: (17275,)
+Found alpha_temp_uncertainty as thermal_a_uncer, shape: (17275,)
+Found spacecraft_x as spacecraft_xpos, shape: (17275,)
+Found spacecraft_y as spacecraft_ypos, shape: (17275,)
+Found spacecraft_z as spacecraft_zpos, shape: (17275,)
+Successfully extracted data with 17275 points
+   Loaded 6265854 data points
+2. Calculating derived parameters...
+3. Detecting CME events...
+   Detected 39416 potential CME events
+4. Estimating Earth impact...
+5. Creating space weather alerts...
+   Generated 9451 alerts
+6. Creating visualizations.
