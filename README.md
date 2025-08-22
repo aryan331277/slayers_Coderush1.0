@@ -1,18 +1,73 @@
-# slayers_Coderush1.0
-The Data collection is done from official website - https://pradan.issdc.gov.in/<br>
-Following is the data that we  have collected along with the use<br>
-<br>
+# Welcome to your Lovable project
 
-Aditya-L1 Payloads (ISRO)<br>
-Payload	File Type	Notes / Key Features<br>
-SUIT	.fits	UV imaging → flare / CME precursor detection<br>
-ASPEX Steps	.cdf	Particle flux spectra, solar wind particles<br>
-ASPEX Swiss	.cdf	Particle measurements, different energy bands<br>
-PAPA	.cdf	Plasma: density, velocity, temperature → dynamic pressure<br>
-MAG	.cdf	Magnetic field: Bx, By, Bz, magnitude, sudden changes<br>
-Solexs	.fits	X-ray imaging → high-energy solar events<br>
+## Project info
 
+**URL**: https://lovable.dev/projects/85f55e38-9177-4fec-ac5c-8b1bb6e57571
 
-Multi Modal is done
-O/p which is detection classification and time series analysis
- 
+## How can I edit this code?
+
+There are several ways of editing your application.
+
+**Use Lovable**
+
+Simply visit the [Lovable Project](https://lovable.dev/projects/85f55e38-9177-4fec-ac5c-8b1bb6e57571) and start prompting.
+
+Changes made via Lovable will be committed automatically to this repo.
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/85f55e38-9177-4fec-ac5c-8b1bb6e57571) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
