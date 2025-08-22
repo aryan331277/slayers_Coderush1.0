@@ -3,5 +3,5 @@ Updated all of the code
 <br>PowerBI and Graphs is done
 <br>Research paper methodology is done
 <br>n8n WorkFlow done and integrated via Webhook
-<br>Half PPT is done
+<br>PPT is done
 <br>Planning of adding research in the website
